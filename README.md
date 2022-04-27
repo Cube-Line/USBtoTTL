@@ -7,7 +7,7 @@
 
 ## 仿真图
 * TOP  
-  [![TOP](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/top.png)]  
+  ![TOP](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/top.png)
 * BOTTOM  
-* [![BOTTOM](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/bottom.png)]
+  ![BOTTOM](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/bottom.png)
 
