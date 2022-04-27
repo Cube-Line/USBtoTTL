@@ -5,4 +5,9 @@
 * 通讯速率最大可达2Mbps(转换IC由CP2104支持).
 * 支持3V3逻辑电平.
 
+## 仿真图
+* TOP  
+  [![TOP](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/top.png)]  
+* BOTTOM  
+* [![BOTTOM](https://github.com/Cube-Line/USBtoTTL/blob/main/USBtoTTL_HW/image/bottom.png)]
 
