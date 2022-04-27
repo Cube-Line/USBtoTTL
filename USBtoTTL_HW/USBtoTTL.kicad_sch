@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "USBtoTTL")
+    (date "2022-04-27")
+    (company "TurboStudio")
+    (comment 1 "Design by CubeLine")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x06_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 7.62 0)
